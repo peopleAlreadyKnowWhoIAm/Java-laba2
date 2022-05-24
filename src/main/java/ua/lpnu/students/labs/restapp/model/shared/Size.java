@@ -1,4 +1,4 @@
-package ua.lpnu.students.labs.decoration.model.shared;
+package ua.lpnu.students.labs.restapp.model.shared;
 
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
